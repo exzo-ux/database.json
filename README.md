@@ -1,1 +1,5 @@
-# database.json
+{
+  "key": [
+    "kaza"
+]
+}
