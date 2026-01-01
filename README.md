@@ -1,10 +1,4 @@
-[
-  {
-    "username": "kazz",
-    "password": "123"
-  },
-  {
-    "username": "kaz",
-    "password": "321"
-  }
-]
+{
+  "status": true,
+  "expired": "2025-09-25T23:59:59Z"
+}
